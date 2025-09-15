@@ -5,8 +5,8 @@
 **RTL/SoC/FPGA Design/Verification Engneer | 빠진 것 없이 꼼꼼하게**
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-Notion-black?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/s-PortFolio-22677e72eb688015843ae434bf7a7002?source=copy_link)
-[![Notion](https://img.shields.io/badge/Notion-BLOG-black?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/s-PortFolio-22677e72eb688015843ae434bf7a7002?source=copy_link)
-[![Velog](https://img.shields.io/badge/Velog-BLOG-20c997?style=flat-square&logo=Vimeo&logoColor=20c997)](https://velog.io/@oriraccoon/posts)
+[![Notion](https://img.shields.io/badge/Notion-Blog-black?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/s-PortFolio-22677e72eb688015843ae434bf7a7002?source=copy_link)
+[![Velog](https://img.shields.io/badge/Velog-Blog-20c997?style=flat-square&logo=Vimeo&logoColor=20c997)](https://velog.io/@oriraccoon/posts)
 
 </div>
 
