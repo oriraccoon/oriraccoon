@@ -37,6 +37,7 @@
 
 ### Tools
 ![Vivado](https://img.shields.io/badge/Vivado-F8C517?style=flat&logo=&logoColor=white)
+![Vitis](https://img.shields.io/badge/Vitis-D33C43?style=flat&logo=&logoColor=white)
 ![Verdi](https://img.shields.io/badge/Verdi-6C47FF?style=flat&logo=&logoColor=white)
 ![VCS](https://img.shields.io/badge/VCS-6C47FF?style=flat&logo=&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
