@@ -1,5 +1,6 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=JiHwan%20KIM&animation=twinkling&fontColor=ffffff&fontSize=60" />
+
 # 🦆🦝 Oriraccoon
 
 **RTL/SoC/FPGA Design/Verification Engneer | 빠진 것 없이 꼼꼼하게**
