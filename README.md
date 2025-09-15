@@ -68,6 +68,6 @@
 
 | 구분 | 링크 |
 |------|------|
-| 📁 Portfolio | [**jjinueng.github.io**](https://www.notion.so/s-PortFolio-22677e72eb688015843ae434bf7a7002?source=copy_link) |
-| ✍️ Dev Blog | [**jjinueng.tistory.com**](https://velog.io/@oriraccoon/posts) |
-| 📘 Solved.ac | [**solved.ac/jjinueng**](https://solved.ac/jjinueng) |
+| 📁 Portfolio | [**Notion-Portfolio**](https://www.notion.so/s-PortFolio-22677e72eb688015843ae434bf7a7002?source=copy_link) |
+| ✍️ Dev Blog1 | [**Velog-Blog**](https://velog.io/@oriraccoon/posts) | 
+| ✍️ Dev Blog2 | [**Notion-Blog**](https://solved.ac/jjinueng) |
