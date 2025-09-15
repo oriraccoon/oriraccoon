@@ -2,11 +2,11 @@
 
 # 🦆🦝 Oriraccoon
 
-**RTL/SoC Design/Verification Engneer | 빠진 것 없이 꼼꼼하게**
+**RTL/SoC/FPGA Design/Verification Engneer | 빠진 것 없이 꼼꼼하게**
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-Notion-black?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/s-PortFolio-22677e72eb688015843ae434bf7a7002?source=copy_link)
-[![Notino](https://img.shields.io/badge/Notion-BLOG-black?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/s-PortFolio-22677e72eb688015843ae434bf7a7002?source=copy_link)
-[![Velog](https://img.shields.io/badge/Velog-BLOG-E7600A?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@oriraccoon/posts)
+[![Notion](https://img.shields.io/badge/Notion-BLOG-black?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/s-PortFolio-22677e72eb688015843ae434bf7a7002?source=copy_link)
+[![Velog](https://img.shields.io/badge/Velog-BLOG-20c997?style=flat-square&logo=Vimeo&logoColor=20c997)](https://velog.io/@oriraccoon/posts)
 
 </div>
 
@@ -27,21 +27,25 @@
 ## 🛠 Tech Stack
 
 ### HardWare
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Verilog](https://img.shields.io/badge/Verilog-000000?style=flat&logo=Verilog&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-000000?style=flat&logo=SystemVerilog&logoColor=white)
 
 ### SoftWare
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-F8C517?style=flat&logo=&logoColor=white)
+![Verdi](https://img.shields.io/badge/Verdi-6C47FF?style=flat&logo=&logoColor=white)
+![VCS](https://img.shields.io/badge/VCS-6C47FF?style=flat&logo=&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+
+### Board
+![Zynq Zybo Z7 20](https://img.shields.io/badge/Zynq_Zybo_Z7_20-37814A?style=flat&logo=&logoColor=white)
+![Zynq minized](https://img.shields.io/badge/Zynq_minized-000000?style=flat&logo=&logoColor=white)
+![Nexys7](https://img.shields.io/badge/Nexys7-37814A?style=flat&logo=&logoColor=white)
+![Basys3](https://img.shields.io/badge/Basys3-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -51,16 +55,14 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=oriraccoon&show_icons=true&theme=transparent&hide_border=true&rank_icon=percentile" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriraccoon&layout=compact&theme=transparent&hide_border=true&langs_count=6" width="48%"/>
-
 </div>
 
 ---
 
 ## 🚀 Currently Learning
 
-- Spring Security + JWT 인증
-- Docker / GitHub Actions 기반 CI/CD
-- 클린 아키텍처와 테스트 중심 설계
+- AMBA BUS
+- Image Sensor Processor
 
 ---
 
@@ -68,6 +70,8 @@
 
 | 구분 | 링크 |
 |------|------|
-| 📁 Portfolio | [**Notion-Portfolio**](https://www.notion.so/s-PortFolio-22677e72eb688015843ae434bf7a7002?source=copy_link) |
-| ✍️ Dev Blog1 | [**Velog-Blog**](https://velog.io/@oriraccoon/posts) | 
-| ✍️ Dev Blog2 | [**Notion-Blog**](https://solved.ac/jjinueng) |
+| ✉️ Gmail | <a href="mailto:kjihwan6755@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-E53935?style=flat-square&logo=google&logoColor=white"/></a>
+| ✍️ PortFolio | [![Portfolio](https://img.shields.io/badge/PORTFOLIO-Notion-black?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/s-PortFolio-22677e72eb688015843ae434bf7a7002?source=copy_link) | 
+| ✍️ Dev Blog | [![Velog](https://img.shields.io/badge/Velog-BLOG-20c997?style=flat-square&logo=Vimeo&logoColor=20c997)](https://velog.io/@oriraccoon/posts) |
+
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Foriraccoon?color=blue&label=hits&size=large)](https://myhits.vercel.app)
