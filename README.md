@@ -1,29 +1,75 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**oriraccoon/oriraccoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🐹 jjinueng
 
-Here are some ideas to get you started:
+**Full-Stack Developer | TypeScript & Spring | UI도 코드도 예쁘게**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-0&count_bg=%23555555&title_bg=%23323232&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-jjinueng.github.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://jjinueng.github.io)
+[![Tistory Blog](https://img.shields.io/badge/TISTORY-BLOG-E7600A?style=flat-square&logo=tistory&logoColor=white)](https://jjinueng.tistory.com)
+[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=jjinueng)](https://solved.ac/jjinueng)
 
-<h2 align="center"> 🎨 Stack <br> </p>
- 
-  <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=round-square&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=round-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=round-square&logo=MongoDB&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=round-square&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=docker&logoColor=white"/>
+</div>
 
- 
-<p align="right">
-<a href="블로그 주소"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=블로그 주소"/></a>
-<a href="인스타그램 주소" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+---
+
+## 💡 About Me
+
+- ☁️ 9roomthon Training Full-Stack Developer  
+  <sub>2023.11.10 ~ 2024.02.29</sub>
+- ☀️ GIS Company Internship  
+  <sub>2024.07.22 ~ 2025.02.28</sub>
+- ☀️ GIS Company Full-Stack Developer  
+  <sub>2025.03.01 ~ ing</sub>
+
+> 예쁜 코드와 유려한 UI를 좋아합니다.  
+> 사용성과 확장성 모두를 고려한 감각적인 개발을 추구합니다.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+### Backend
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jjinueng&show_icons=true&theme=transparent&hide_border=true&rank_icon=percentile" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjinueng&layout=compact&theme=transparent&hide_border=true&langs_count=6" width="48%"/>
+
+</div>
+
+---
+
+## 🚀 Currently Learning
+
+- Spring Security + JWT 인증
+- Docker / GitHub Actions 기반 CI/CD
+- 클린 아키텍처와 테스트 중심 설계
+
+---
+
+## 🔗 Contact & More
+
+| 구분 | 링크 |
+|------|------|
+| 📁 Portfolio | [**jjinueng.github.io**](https://jjinueng.github.io) |
+| ✍️ Dev Blog | [**jjinueng.tistory.com**](https://jjinueng.tistory.com) |
+| 📘 Solved.ac | [**solved.ac/jjinueng**](https://solved.ac/jjinueng) |
