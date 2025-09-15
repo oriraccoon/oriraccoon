@@ -1,5 +1,5 @@
 <div align="center">
-
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=JiHwan%20KIM&animation=twinkling&fontColor=ffffff&fontSize=60" />
 # 🦆🦝 Oriraccoon
 
 **RTL/SoC/FPGA Design/Verification Engneer | 빠진 것 없이 꼼꼼하게**
@@ -9,7 +9,13 @@
 [![Velog](https://img.shields.io/badge/Velog-Blog-20c997?style=flat-square&logo=Vimeo&logoColor=20c997)](https://velog.io/@oriraccoon/posts)
 
 </div>
-
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=oriraccoon&utm_content=farm">
+        <img
+          src="https://render.gitanimals.org/farms/oriraccoon"
+          width="100%"
+          height="300"
+        />
+    </a>
 ---
 
 ## 💡 About Me
