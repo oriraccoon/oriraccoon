@@ -72,7 +72,7 @@
 | 구분 | 링크 |
 |------|------|
 | ✉️ Gmail | <a href="mailto:kjihwan6755@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-E53935?style=flat-square&logo=google&logoColor=white"/></a>
-| ✍️ PortFolio | [![Portfolio](https://img.shields.io/badge/PORTFOLIO-Notion-black?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/s-PortFolio-22677e72eb688015843ae434bf7a7002?source=copy_link) | 
-| ✍️ Dev Blog | [![Velog](https://img.shields.io/badge/Velog-BLOG-20c997?style=flat-square&logo=Vimeo&logoColor=20c997)](https://velog.io/@oriraccoon/posts) |
+| 📜 PortFolio | [![Portfolio](https://img.shields.io/badge/PORTFOLIO-Notion-black?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/s-PortFolio-22677e72eb688015843ae434bf7a7002?source=copy_link) | 
+| ✍️ Dev Blog | [![Velog](https://img.shields.io/badge/Velog-Blog-20c997?style=flat-square&logo=Vimeo&logoColor=20c997)](https://velog.io/@oriraccoon/posts) |
 
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Foriraccoon?color=blue&label=hits&size=large)](https://myhits.vercel.app)
