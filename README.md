@@ -3,7 +3,7 @@
 
 # 🦆🦝 Oriraccoon
 
-**RTL/SoC/FPGA Design/Verification Engneer | 빠진 것 없이 꼼꼼하게**
+**RTL/SoC/FPGA Design/Verification Engneer**
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-Notion-black?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/s-PortFolio-22677e72eb688015843ae434bf7a7002?source=copy_link)
 [![Notion](https://img.shields.io/badge/Notion-Blog-black?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/s-PortFolio-22677e72eb688015843ae434bf7a7002?source=copy_link)
@@ -24,6 +24,8 @@
   <sub>2019.03.02 ~ 2025.02.21</sub>
 - ☀️ Harman Semicon Arcademy  
   <sub>2025.02.04 ~ 2025.08.26</sub>
+- ☀️ Harman Connected Services Inc.  
+  <sub>2025.11.10 ~ </sub>
   
 > 사용성과 확장성 모두를 고려한 감각적인 개발을 추구합니다.  
 > 저전력 설계에 기여하겠습니다.
