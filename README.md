@@ -22,9 +22,9 @@
 
 - ☁️ Tech University of Korea 
   <sub>2019.03.02 ~ 2025.02.21</sub>
-- ☀️ Harman Semicon Arcademy  
+- ☀️ Harman Semicon Arcademy 
   <sub>2025.02.04 ~ 2025.08.26</sub>
-- ☀️ Harman Connected Services Inc.  
+- ☀️ Harman Connected Services Inc. 
   <sub>2025.11.10 ~ </sub>
   
 > 사용성과 확장성 모두를 고려한 감각적인 개발을 추구합니다.  
